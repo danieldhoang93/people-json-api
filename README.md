@@ -2,7 +2,11 @@
 
 ## Project setup
 ```
-npm install
+This is a static api that I got data from using JSON Server and faker for the fake data. 
+It can be accessed here:
+https://danieldhoang93.github.io/people-json-api/public/people.json
+or
+https://people-swiper-api.netlify.app/people.json
 ```
 
 ### Compiles and hot-reloads for development
